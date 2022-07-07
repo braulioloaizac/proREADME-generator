@@ -1,35 +1,38 @@
 
-    # ReadmeGen
+# Readme Generator
 
-    ## Description
+## Description
+This project generates professional readme files using the command line and guiding the user through some questions to be easie
 
-    
+undefined
 
-    ## Table of Contents (Optional)
+## Table of Contents (Optional)
 
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Tests](#tests)
+- [License](#license)
+- [Additional Questions](#questions)
 
-    ## Installation
+## Installation
+No installation needed
+
+## Usage
+Execute de code and answer the questions through the execution
+
+## Credits
 
 
-    ## Usage
+## Tests
+I don't have tests yet
+
+## License
+8
+
+## Questions
+
+[Github Profile](https://github.com/braulioloaizac)
+Email : bloaizac@uqvirtual.edu.co
 
 
-    ## Credits
-
-
-    ## License
-
-
-    ## Badges
-
-    ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-    Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-    ## Tests
-
-    Go the extra mile and write tests for your application. Then provide examples on how to run them here.
