@@ -43,9 +43,6 @@ ${answers.contributors}
 ## Tests
 ${answers.tests}
 
-## License
-${answers.licence}
-
 ## Questions
 
 [Github Profile](https://github.com/${answers.githubprofile})

@@ -14,15 +14,6 @@ const licences = [
     '7. Boost Software License 1.0',
     '8. The Unlicense']
 
-    
-    const requireLetter = (value) => {
-        if (/\w/.test(value)) {
-          return true;
-        }
-      
-        return 'Password need to have at least a letter';
-      };
-
       
 //Questions to be prompt
 const questions = [
