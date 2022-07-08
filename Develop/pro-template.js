@@ -28,7 +28,6 @@ ${badges[answers.licence - 1]}
 - [Usage](#usage)
 - [Credits](#credits)
 - [Tests](#tests)
-- [License](#license)
 - [Additional Questions](#questions)
 
 ## Installation
