@@ -8,7 +8,6 @@ This project generates a professional readme in a easier way, guiding the user t
 
 ## Table of Contents (Optional)
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Additional Questions](#questions)
 
