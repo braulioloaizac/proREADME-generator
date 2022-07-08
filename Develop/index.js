@@ -1,6 +1,8 @@
 import inquirer from "inquirer";
 import fs from "fs";
+//Import the template function
 import generateREADME from "./pro-template.js";
+
 
 const licences = [
     '1. GNU AGPLv3',
@@ -13,12 +15,21 @@ const licences = [
     '8. The Unlicense']
 
     
+    const requireLetter = (value) => {
+        if (/\w/.test(value)) {
+          return true;
+        }
+      
+        return 'Password need to have at least a letter';
+      };
 
+      
+//Questions to be prompt
 const questions = [
     {
         type: 'input',
         name: 'name',
-        message: 'What is your project title? (Required): '
+        message: 'What is your project title? (Required): ',
     },
     {
         type: 'input',
@@ -47,7 +58,7 @@ const questions = [
         name: 'tests',
         message: 'Provide your application tests, and how to do them: '
     },
-    {
+    {   //Returns the number of the licence
         type: 'list',
         name: 'licence',
         message: 'Select your licence type: (Required)',
@@ -86,8 +97,10 @@ const questions = [
     .prompt(questions)
     .then((answers) => {
         
-        console.log(JSON.stringify(answers, null, '  '));
-        console.log(answers.licence)
+        //console.log(JSON.stringify(answers, null, '  '));
+        //console.log(answers.licence)
+        
+        //Creates and overwrites the file
         fs.writeFile('./README.md', generateREADME(answers), err => {
             if (err) throw err;
 
