@@ -8,21 +8,31 @@ This project generates a professional readme in a easier way, guiding the user t
 
 ## Table of Contents (Optional)
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Tests](#tests)
+- [License](#license)
 - [Additional Questions](#questions)
 
-
+## Installation
+Don't need installation
 
 ## Usage
 Run the code using :node index.js
 
 ## Credits
-Xander Rapstine, Grace Choi, for the starter code
+Collaborator 1, Collaborator 2
+
+## Tests
+This app doesn't have tests
+
+## License
+6
 
 ## Questions
 
 [Github Profile](https://github.com/braulioloaizac)
-Email : bloaizac@uqvirtual.edu.co
+Email : bloaiza@uqvirtual.edu.co
 
 
