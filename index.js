@@ -92,7 +92,7 @@ const questions = [
         //console.log(answers.licence)
         
         //Creates and overwrites the file
-        fs.writeFile('./README.md', generateREADME(answers), err => {
+        fs.writeFile('./dist/README.md', generateREADME(answers), err => {
             if (err) throw err;
 
             console.log('README was generated successful. Check out README.md to see the output!');

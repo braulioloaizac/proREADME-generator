@@ -11,6 +11,7 @@ This project generates a professional readme in a easier way, guiding the user t
 - [Usage](#usage)
 - [Credits](#credits)
 - [Additional Questions](#questions)
+- [Project Demo](#demo)
 
 
 
@@ -23,6 +24,9 @@ Xander Rapstine, Grace Choi, for the starter code
 ## Questions
 
 [Github Profile](https://github.com/braulioloaizac)
+
 Email : bloaizac@uqvirtual.edu.co
 
+## Project Demo
 
+[Github Profile](https://github.com/braulioloaizac)
