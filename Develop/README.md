@@ -1,10 +1,10 @@
 
-# Readme Generator
+# no
 
 ## Description
-This project generates a professional readme in a easier way, guiding the user through some questions, the app is built using nodejs, inquirer and fs
+no
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Table of Contents (Optional)
 
@@ -12,27 +12,28 @@ This project generates a professional readme in a easier way, guiding the user t
 - [Usage](#usage)
 - [Credits](#credits)
 - [Tests](#tests)
-- [License](#license)
+- [Licence](#licence)
 - [Additional Questions](#questions)
 
 ## Installation
-Don't need installation
+no
 
 ## Usage
-Run the code using :node index.js
+no
 
 ## Credits
-Collaborator 1, Collaborator 2
+no
 
 ## Tests
-This app doesn't have tests
+no
 
-## License
-6
+## Licence
+GNU GPLv3
 
 ## Questions
+[Github Profile](https://github.com/no)
 
-[Github Profile](https://github.com/braulioloaizac)
-Email : bloaiza@uqvirtual.edu.co
+Email : nop
 
+nop
 

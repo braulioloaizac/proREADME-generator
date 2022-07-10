@@ -20,7 +20,7 @@ const generateREADME = (answers) =>{
 ## Description
 ${answers.description}
 
-${badges[answers.licence - 1]}
+${badges[answers.licence[0]]}
 
 ## Table of Contents (Optional)
 
@@ -28,6 +28,7 @@ ${badges[answers.licence - 1]}
 - [Usage](#usage)
 - [Credits](#credits)
 - [Tests](#tests)
+- [Licence](#licence)
 - [Additional Questions](#questions)
 
 ## Installation
@@ -42,10 +43,14 @@ ${answers.contributors}
 ## Tests
 ${answers.tests}
 
-## Questions
+## Licence
+${answers.licence.slice(3)}
 
+## Questions
 [Github Profile](https://github.com/${answers.githubprofile})
+
 Email : ${answers.email}
+
 ${answers.addinst}
 
 `
