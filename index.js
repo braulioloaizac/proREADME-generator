@@ -54,9 +54,7 @@ const questions = [
         name: 'licence',
         message: 'Select your licence type: (Required)',
         choices: licences,
-        // filter(val) {        
-        //     return val[0];
-        //   },
+        
     },
     {
         type: 'input',

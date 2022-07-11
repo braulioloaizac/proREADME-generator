@@ -20,7 +20,7 @@ const generateREADME = (answers) =>{
 ## Description
 ${answers.description}
 
-${badges[answers.licence[0]]}
+${badges[answers.licence[0] - 1]}
 
 ## Table of Contents (Optional)
 

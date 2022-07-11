@@ -1,10 +1,10 @@
 
-# no
+# Readme Generator
 
 ## Description
-no
+This project generates professional readme files in an easier way, guiding the user through some questions, the app is built using nodejs inquierer and fs
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
 ## Table of Contents (Optional)
 
@@ -16,24 +16,24 @@ no
 - [Additional Questions](#questions)
 
 ## Installation
-no
+No installation needed
 
 ## Usage
-no
+Run the script typing node index.js
 
 ## Credits
-no
+Example 1 Example 2
 
 ## Tests
-no
+The app doesn't have tests
 
 ## Licence
-GNU GPLv3
+MIT License
 
 ## Questions
-[Github Profile](https://github.com/no)
+[Github Profile](https://github.com/braulioloaizac)
 
-Email : nop
+Email : bloaizac@uqvirtual.edu.co
 
-nop
+You can reach me through my email
 
